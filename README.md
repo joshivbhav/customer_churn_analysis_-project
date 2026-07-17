@@ -64,8 +64,10 @@ The plan-level pivot table aggregates customer volume, total monthly charges, an
 | Basic | 60.00% | 5 | 52.95 |
 | Standard | 22.22% | 9 | 123.91 |
 | Premium | 14.29% | 7 | 218.93 |
+<img width="716" height="590" alt="Screenshot 2026-07-17 184151" src="https://github.com/user-attachments/assets/6e07fe43-d85c-4c28-b879-0e754fdadac9" />
 
 ## Visualizations
+<img width="870" height="386" alt="Screenshot 2026-07-17 184825" src="https://github.com/user-attachments/assets/8f77ac23-2b39-4b7a-9c65-4cb974a7ecc9" />
 
 The notebook creates the following charts:
 
@@ -75,6 +77,9 @@ The notebook creates the following charts:
 4. Correlation heatmap for encoded churn-related features
 5. Pair plot for numerical and encoded features
 6. Category plot comparing plan type, monthly charges, gender, and churn-risk band
+<img width="880" height="741" alt="Screenshot 2026-07-17 184738" src="https://github.com/user-attachments/assets/9453f2ce-b19b-49ed-a9b2-64f6930d8e4e" />
+<img width="767" height="486" alt="Screenshot 2026-07-17 184814" src="https://github.com/user-attachments/assets/e7baaa1b-b569-40cb-b663-e25dfbb4e6e0" />
+<img width="749" height="752" alt="Screenshot 2026-07-17 185018" src="https://github.com/user-attachments/assets/18d43ae4-92f0-4950-bd6b-b2607ffa5186" />
 
 ## Tools and Technologies
 
